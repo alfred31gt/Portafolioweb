@@ -1,0 +1,148 @@
+html, body {
+	width: 100%; 
+}
+
+.fondo1 {
+	background:url("../image/1.jpg")no-repeat center;
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	-o-background-size:cover;
+	background-size:cover; 
+	width: 100%;
+	height: 560px;
+	padding:right:10%;
+	padding-left:10%; 
+}
+
+.fondo2{
+	background-color: #EC4141; 
+	width: 100%;
+	
+	padding-right:10%;
+	padding-left:10%; 
+
+}
+
+.shape{
+ color: #E62026;
+ font-weight:bolder;
+}
+.opciones
+{
+	color:#FFF;
+	font-weight:bolder; 
+}
+.menuselect:hover {
+	background-color:#EC4141;
+}
+.espacio {
+	padding-top: 2%;
+	padding-bottom:2%; 
+	padding-right:0 !important;
+	padding-left: 0 !important; 
+}
+.alturatotal {
+	height: 500px;
+
+}
+.movabajo {
+	color:#FFF; 
+	position: absolute;
+	bottom: 5%; 
+}
+.ancho {
+	font-weight: bolder;
+	font-size:50px;  
+}
+.borde{
+	border-color: #FFF;
+}
+.as {
+	color: #FFF;
+	font-weight:bolder; 
+	border: 1px solid white;
+	font-size:27px; 
+	text-align:center;
+	padding-top: 2%;
+	padding-bottom:2%; 
+	padding-right:0 !important;
+	padding-left: 0 !important; 
+}
+.dan {
+	border: 1px solid white;
+	background-color:#FFF;  
+}
+.fondo3 {
+ 	background-color: #1C1C1C;
+ 	 width: 100%;
+	height: 580px;
+	padding-right:10%;
+	padding-left:10%; 
+}
+.texto4 {
+	color:#FFF;
+	font-weight:bolder;	
+	text-align:center;
+
+}
+.sha {
+	color:#656565;
+	text-align:center; 
+}
+.gym {
+	padding-top:20%;    
+}
+.fondo4 {
+	background-color:#282928  ; 
+	height: 520px;
+	width:100%
+	
+
+}
+.ron {
+	color:#656565;
+	font-size:13px;    
+
+
+}
+.letras {
+	color:#FFF;
+
+}
+.boton {
+	border:1px solid black;
+	background-color:#EC4141;
+	color:#FFF;
+
+}
+.fondo5	{
+	background-color: #090909;
+	height:350px;
+	width:100%;  
+}
+.ultimo {
+	padding-left:55px;  
+	color:#FFF;
+	font-weight:bolder; 
+}
+.textul {
+	padding-left:55px;
+	color: #656565;
+}
+.ultimoa {
+	padding-right:55px;
+	color:#FFF; 
+	font-weight:bolder; 
+}
+.mero {
+	color: #656565;
+}
+.bordea {
+	border:1px solid gray; 
+}
+.da {
+	padding-left:10%; 
+} 
+.se {
+	padding:3%;  
+}

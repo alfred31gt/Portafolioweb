@@ -1,0 +1,102 @@
+*{
+  margin: 0 !important;
+}
+.fondo1{
+  background:linear-gradient(90deg,rgba(0,0,0,.5),rgba(0,0,0,.1)),url("../image/fondo.jpg")no-repeat center;
+		-webkti-background-size:cover;
+		-moz-background-size:cover;
+		-o-background-size:cover;
+	background-size:cover;
+	background-attachment: fixed;
+	background-position: center;
+	position: relative;
+	width: 100%;
+	height: 600px;
+  border-top: solid gray 4px;
+	border-bottom: solid gray 4px;
+	padding-right: 5%;
+	padding-left: 5%;
+}
+.fondo2{
+  background:linear-gradient(90deg,rgba(0,0,0,.3),rgba(0,0,0,.3)),url("../image/fondoenlace.jpg")no-repeat center;
+		-webkti-background-size:cover;
+		-moz-background-size:cover;
+		-o-background-size:cover;
+	background-size:cover;
+	width: 100%;
+	height: 655px;
+  border-top: solid gray 4px;
+	border-bottom: solid gray 4px;
+	padding-right: 5%;
+	padding-left: 5%;
+  padding-top: 2%;
+}
+.fondo3{
+  background:linear-gradient(90deg,rgba(0,0,0,.4),rgba(0,0,0,.4)),url("../image/fondoo.jpg")no-repeat center;
+		-webkti-background-size:cover;
+		-moz-background-size:cover;
+		-o-background-size:cover;
+	background-size:cover;
+	width: 100%;
+	height: 685px;
+  border-top: solid gray 4px;
+	border-bottom: solid gray 4px;
+	padding-right: 5%;
+	padding-left: 5%;
+  padding-top: 6%;
+}
+.bordemenu{
+  border-bottom: solid white 2px;
+}
+.borde2{
+  border-left: solid white 2px;
+}
+.borde3{
+  border-left: solid white 2px;
+  border-right: solid white 2px;
+}
+.centrado{
+  text-align: center;
+}
+.letra1{
+  font-size: 28px;
+  font-family: Arial;
+  color: #FFFFFF;
+}
+.letra2{
+  font-size: 48px;
+  font-family: Arial;
+  color: #FFFFFF;
+}
+.letra3{
+  font-size: 18px;
+  font-family: Arial;
+  color: #FFFFFF;
+}
+.fondocolor1{
+  background:linear-gradient(90deg,rgba(0,0,0,.5),rgba(0,0,0,.5));
+}
+.lugar1{
+  padding-top: 200px;
+}
+.lugar2{
+  padding: 20px;
+}
+.lugar3{
+  padding-bottom: 30px;
+}
+
+.edicion1{
+  text-decoration: none;
+  color: #FFFFFF;
+  font-size: 28px;
+  font-family: Arial;
+}
+.contenedorenlace {
+  background: url(fondoenlace.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  width: 100%;
+  height:500px;
+}

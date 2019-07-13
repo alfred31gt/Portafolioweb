@@ -1,0 +1,98 @@
+/*Estilos para el fondo del primer contenedor*/
+.fondo1 {
+	/*Fondo del primer contenedor*/
+	background:url("http://www.techweekeurope.co.uk/wp-content/uploads/2014/04/windows-xp-wallpaper-make-every-yy9gthfz.jpg")no-repeat center;
+	/*Ajusta la imagen al contenedor*/
+	-webkit-background-size:cover;
+	-o-background-size:cover;
+	-moz-background-size:cover;
+	background-size:cover;
+	/*Alto de la imagen de fondo*/
+	height: 500px;
+	width:90%;
+	/*Espaciado de los lados*/
+	padding-left:10%;
+	padding-right:10%;
+}
+/*Ancho total del sitio*/
+body {
+	width:100%;
+}
+
+.blanco {
+	color: #FFF;
+}
+
+.rojo {
+	color: #0404B4;
+	/*Tamaño de letra*/
+	font-size:16px;
+	/*Ancho de letra*/
+	font-weight:bolder;
+}
+/*Color de fondo al pasar el mouse en el menu*/
+.seleccionarmenu:hover {
+	background-color: #A4A4A4
+}
+/*Espacio dentro del menu*/
+.seleccionarmenu {
+	padding-top: 2%;
+	padding-bottom: 2%;
+}
+.menu {
+	padding-top: 2%;
+	padding-bottom: 2%;
+}
+/*Estilo para el titulo progress*/
+.tituloprogreso {
+	font-size:50px;
+	font-weight:bolder;
+}
+/*Coloca la altura de la fila para mover el texto progress*/
+.alturatotal {
+	height:440px;
+}
+/*Mueve abajo el texto de progress*/
+.moverabajo {
+	position:absolute;
+	bottom:10%;
+}
+/* *******************Estilos para el segundo contenedor ********************/
+
+.fondo2 {
+	background-color:#071019;
+	width:90%;
+	/*Espaciado de los lados*/
+	padding-left:10%;
+	padding-right:10%;
+	padding-bottom:10%
+}
+.centrar{
+	text-align:center;
+}
+.lados{
+	background-color:#071019;
+
+}
+.colorp{
+		background-color:#FFF;
+}
+.borde{
+	border:1px solid #FFF;
+}
+/* *****Estilos para el tercer contenedor **********************/
+
+.fondo3{
+	background-color:#071019;
+	width:90%
+}
+.borde{
+	border:2px solid #FFF;
+}
+.fondo4{
+	background-color:071019;
+	width:90%
+}
+.border{
+	border: 1px solid #FFF;
+}
